@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Lede OpenWrt Builder
+name: Build Immortalwrt-mt798x
 
 on:
   repository_dispatch:
