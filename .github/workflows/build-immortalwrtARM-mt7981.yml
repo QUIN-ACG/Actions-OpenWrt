@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: ImmortalwrtARM-Mt7981 Builder
+name: Build ImmortalwrtARM-Mt7981
 
 on:
   repository_dispatch:
