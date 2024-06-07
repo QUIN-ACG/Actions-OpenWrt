@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Lede OpenWrt Builder
+name: ImmortalwrtARM-7981 Builder
 
 on:
   repository_dispatch:
