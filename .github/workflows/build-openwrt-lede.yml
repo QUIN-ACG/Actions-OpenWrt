@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Build Padavanonly-Mt7621
+name: Build Openwrt-Lede
 
 on:
   repository_dispatch:
